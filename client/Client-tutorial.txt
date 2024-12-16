@@ -1,0 +1,16 @@
+npm i lucide-react uuid dotenv date-fns framer-motion react-hook-form zod @hookform/resolvers @hello-pangea/dndnpm i lucide-react uuid dotenv date-fns framer-motion react-hook-form zod @hookform/resolvers @hello-pangea/dnd --legacy-peer-deps
+
+npm i -D @types/node @types/uuid --legacy-peer-deps
+
+npx shadcn@latest init -d       
+
+shadcn is a ui library being used in this project and above command initialises the project
+
+npx shadcn@latest add accordion avatar button card dialog input label navigation-menu popover progress select form se
+lect separator sheet sidebar skeleton switch table tabs textarea toggle tooltip
+
+
+npm i -D prettier-plugin-tailwindcss --legacy-peer-deps                                                              
+// order css tailwind
+
+npm i react-redux @reduxjs/toolkit --legacy-peer-deps
